@@ -1,0 +1,4 @@
+{
+  "experiment_name": "ct_seg",
+  "file_observer_base_dir": "runs"
+}
