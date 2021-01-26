@@ -1,0 +1,6 @@
+h5py<3.0
+Keras==2.2.2
+matplotlib>=3.0.3
+numpy==1.15.0
+sacred==0.7.4
+tqdm

@@ -1,0 +1,4 @@
+{
+  "drop_last_layer": true,
+  "resume_from": "best_sm33.hdf5"
+}
