@@ -1,4 +1,4 @@
-# Keras CT Segmentation
+# Monte Carlo Dropout Network (MCDN) 3D CT Segmentation
 
 A Tensorflow and Keras backed framework for learned segmentation methods of 3D CT scan
 volumes. Supported functionality includes training models, running inference and
@@ -6,7 +6,7 @@ quantifying uncertainty. The main underlying model architecture is V-Net.
 
 ## Installation
 
-`keras_ct_seg_clean` expects Python `>=3.5`. Also, be sure to activate your desired
+`mcdn-3d-seg` expects Python `>=3.5`. Also, be sure to activate your desired
 virtual environment before installing.
 
 Run one of the following to install, depending on if you want GPU support:
@@ -25,7 +25,7 @@ The JSON file `sacred_config.json` specifies [sacred](sacred.readthedocs.io) exp
 configuration independent of the run configuration.
 
 Specifically, `file_observer_base_dir` specifies where sacred stores its run logs. The
-default is `keras_ct_seg_clean/runs/` but if running on synapse, the shared logs are
+default is `mcdn-3d-seg/runs/` but if running on synapse, the shared logs are
 stored to:
 
 ```json
@@ -36,7 +36,7 @@ stored to:
 
 ## Run Configuration
 
-`keras_ct_seg_clean` contains multiple scripts such as `train.py` and `infer.py`, each
+`mcdn-3d-seg` contains multiple scripts such as `train.py` and `infer.py`, each
 of which expects a JSON config. The syntax to run one of these scripts is:
 
 ```bash

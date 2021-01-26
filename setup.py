@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Installs keras_ct_seg
+Installs mcdn-3d-seg
 
 > Tyler Ganter, tganter@sandia.gov
 """
@@ -26,7 +26,7 @@ setup(
     description="CT Segmentation",
     author="Tyler Ganter",
     author_email="tganter@sandia.gov",
-    url="https://gitlab.sandia.gov/9323/ami/digital-twins/keras_ct_seg_clean",
+    url="https://github.com/sandialabs/mcdn-3d-seg",
     license="",
     packages=find_packages(),
     include_package_data=True,

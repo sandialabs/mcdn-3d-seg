@@ -12,12 +12,12 @@ from ctseg.ctutil.utils import read_json
 def initialize_experiment():
     """Initialize the Sacred Experiment
 
-    This method reads a JSON config from keras_ct_seg_clean/sacred_config.json with the
+    This method reads a JSON config from mcdn-3d-seg/sacred_config.json with the
     following entries:
 
         experiment_name: the name of the sacred experiment
         file_observer_base_dir: the directory where run logs are saved to. If relative,
-            it is assumed relative to keras_ct_seg_clean/
+            it is assumed relative to mcdn-3d-seg/
     """
     # parse the sacred config
     repo_dir = os.path.dirname(os.path.dirname(__file__))
