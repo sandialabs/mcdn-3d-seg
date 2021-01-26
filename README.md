@@ -25,14 +25,7 @@ The JSON file `sacred_config.json` specifies [sacred](sacred.readthedocs.io) exp
 configuration independent of the run configuration.
 
 Specifically, `file_observer_base_dir` specifies where sacred stores its run logs. The
-default is `mcdn-3d-seg/runs/` but if running on synapse, the shared logs are
-stored to:
-
-```json
-{
-    "file_observer_base_dir": "/data/wg-cee-dev-dgx/output/ct_seg/file_observer"
-}
-```
+default is `mcdn-3d-seg/runs/`.
 
 ## Run Configuration
 
