@@ -1,8 +1,4 @@
-"""preprocess.py
-Data Preprocessing Functions
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Data Preprocessing Functions"""
 import logging
 
 import numpy as np

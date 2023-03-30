@@ -1,8 +1,4 @@
-"""plot.py
-Utilities for visualizing data and predictions.
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Utilities for visualizing data and predictions"""
 import colorcet as cc
 import matplotlib.pyplot as plt
 import numpy as np

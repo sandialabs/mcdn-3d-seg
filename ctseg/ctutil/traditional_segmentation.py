@@ -1,8 +1,4 @@
-"""traditional_segmentation.py
-Traditional Non-learned Segmentation Methods
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Traditional Non-learned Segmentation Methods"""
 import logging
 
 import cv2

@@ -1,8 +1,4 @@
-"""tfutils.py
-Tensorflow Utility Functions
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Tensorflow Utility Functions"""
 import warnings
 
 with warnings.catch_warnings():

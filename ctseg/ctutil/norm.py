@@ -1,8 +1,4 @@
-"""norm.py
-Normalization & Preprocessing Tools
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Normalization & Preprocessing Tools"""
 import logging
 
 import numpy as np

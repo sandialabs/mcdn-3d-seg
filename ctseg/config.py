@@ -1,6 +1,3 @@
-"""
-
-"""
 import os
 
 from sacred.observers import FileStorageObserver

@@ -1,9 +1,5 @@
 #!/usr/bin/env python
-"""
-Installs mcdn-3d-seg
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Installs mcdn-3d-seg"""
 import os
 from setuptools import setup, find_packages
 

@@ -1,8 +1,4 @@
-"""utils.py
-Core Utility Functions
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Core Utility Functions"""
 import json
 import logging
 import os

@@ -1,9 +1,5 @@
 #!/usr/bin/env python
-"""
-Update a JSON config from an old format to the latest format
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Update a JSON config from an old format to the latest format"""
 import argparse
 import logging
 

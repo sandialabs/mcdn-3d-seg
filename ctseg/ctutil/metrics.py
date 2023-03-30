@@ -1,8 +1,4 @@
-"""metrics.py
-Model Evaluation Metrics
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Model Evaluation Metrics"""
 import warnings
 
 with warnings.catch_warnings():

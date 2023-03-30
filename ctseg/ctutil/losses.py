@@ -1,8 +1,4 @@
-"""losses.py
-Loss Functions
-
-> Tyler Ganter, tganter@sandia.gov
-"""
+"""Loss Functions"""
 import warnings
 
 with warnings.catch_warnings():
