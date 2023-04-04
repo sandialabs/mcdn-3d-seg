@@ -88,3 +88,11 @@ python infer.py with <PATH/TO/CONFIG>.json
 
 To run inference using a different model, add `resume_from=<PATH/TO/MODEL>` at the end of the
 above command.
+
+## Authors
+
+Tyler Ganter;
+Carianne Martinez;
+Kevin Potter;
+Jessica Jones;
+Tyler LaBonte
